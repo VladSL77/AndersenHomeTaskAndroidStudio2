@@ -3,19 +3,45 @@
     package="com.example.helloconstraint">
 
     <application
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:fullBackupOnly="true"
+        android:icon="@mipmap/new_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/new_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloWorld">
         <activity
-            android:name="com.example.helloconstraint.MainActivity"
+            android:name=".ShoppingListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThreeTextActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ImplicitIntents"
+            android:exported="false" />
+        <activity
+            android:name=".HelloActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/activity2_name"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="developer.android.com"
+                    android:scheme="http" />
             </intent-filter>
         </activity>
     </application>

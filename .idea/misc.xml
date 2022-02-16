@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout-land/activity_main.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.176" />
-        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_main.xml" value="0.202991452991453" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_hello.xml" value="0.18041871921182265" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_implicit_intents.xml" value="0.176" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_second.xml" value="0.536" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_shopping_list.xml" value="0.17795566502463053" />
+        <entry key="..\:/Users/Vlad/Andersen/HelloConstraint/app/src/main/res/layout/activity_three_text.xml" value="0.18041871921182265" />
         <entry key="..\:/Users/Vlad/Andersen/HelloWorld/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Vlad/Andersen/HelloWorld/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Vlad/Andersen/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.264" />

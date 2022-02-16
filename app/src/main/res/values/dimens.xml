@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_regular">10dp</dimen>
+    <dimen name="margin_regular">8dp</dimen>
+    <dimen name="sp_160">160sp</dimen>
+    <dimen name="sp_120">120sp</dimen>
+    <dimen name="sp_40">40sp</dimen>
+    <dimen name="sp_200">200sp</dimen>
+    <dimen name="line_spacing">5sp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="sp_80">80sp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+</resources>
